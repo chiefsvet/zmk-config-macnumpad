@@ -1,0 +1,2 @@
+config SHIELD_MACNUMPAD
+    def bool $(shields_list_contains, macnumpad)
